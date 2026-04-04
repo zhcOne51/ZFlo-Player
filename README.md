@@ -84,6 +84,14 @@
 
 ## 安装指南
 
+### 安装方法一(发行作品 / Releases)
+
+1. **右侧**打开发现版本, **或复制URL**打开: https://github.com/zhcOne51/ZFlo-Player/releases/tag/ZFlo_Player
+2. **下载** `ZFlo.Player.Setup.1.0.0.exe` 文件
+3. **运行**安装程序，选择安装路径
+4. **完成**安装后启动应用
+5. **首次**启动会显示交互式引导教程
+
 由于 GitHub Releases 单文件限制为 **25MB**，而 ZFlo Player 安装包大小约为 **143MB**，因此我们将安装包拆分为以下多个分片文件：
 
 | 文件名 | 大小 |
@@ -96,7 +104,7 @@
 | `ZFlo_Player_v1.0.0.part006` | 17.12 MB |
 | `merge_files.bat` | 合并工具 |
 
-### 安装步骤
+### 安装方法二(仓库合并下载)
 
 #### 第一步：下载仓库release/splits文件
 
