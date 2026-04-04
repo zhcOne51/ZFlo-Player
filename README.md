@@ -4,7 +4,7 @@
 
 **您的专属本地视频播放与媒体管理中心**
 
-![ZFlo Player Logo](public/Logo/logo.ico)
+![ZFlo Player Logo](/logo.ico)
 
 </div>
 
